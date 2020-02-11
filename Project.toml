@@ -1,4 +1,4 @@
-name = "Broken"
+name = "Broken.jl"
 uuid = "68a0b7e2-4204-11ea-065e-cd7827818ec5"
 authors = ["claresinger <clareees@gmail.com>"]
 version = "0.1.0"
